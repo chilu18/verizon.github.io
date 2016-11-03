@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://verizon.github.io/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/sit/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/dolor/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/another-article/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/ipsum/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/lorem/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/sed/</loc>
+    <lastmod>2016-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/blog/some-exciting-article/</loc>
+    <lastmod>2016-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://verizon.github.io/talks/</loc>
+  </url>
+  
+</urlset>
